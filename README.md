@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmarropodi
+- 👋 Hi, I’m Desiree L. Marropodi
 - 👀 I’m interested in Software Engineering & Brain-Computer Interfaces
 - 🌱 I’m currently learning Computer Science @FAU
 - 💞️ I’m looking to collaborate on skill building
