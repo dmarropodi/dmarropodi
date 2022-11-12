@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dmarropodi
-- 👀 I’m interested in Software Engineering & Bio-Robotics
+- 👀 I’m interested in Software Engineering & Brain-Computer Interfaces
 - 🌱 I’m currently learning Computer Science @FAU
 - 💞️ I’m looking to collaborate on skill building
 - 📫 How to reach me : 
