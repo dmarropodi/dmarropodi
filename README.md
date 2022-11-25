@@ -4,7 +4,7 @@
 - 💞️ I’m looking to Collaborate on skill building, Internship & Early Career Opportunities 
 - 📫 How to reach me : 
                        Email: dmarropodi2018@fau.edu
-                       Linkedin: https://www.linkedin.com/in/desiree-marropodi-087712213/
+                       Linkedin: https://www.linkedin.com/in/desiree-marropodi/
                        
 
 <!---
